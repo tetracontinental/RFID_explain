@@ -20,16 +20,45 @@ main {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
+}
+
+.card {
     background-color: white;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
 }
 
-#book-info {
-    text-align: center;
+.card-header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
 }
 
-h2 {
-    margin-top: 0;
+.card-header img {
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.card-body {
+    display: flex;
+    padding: 20px;
+}
+
+.book-info {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.book-review {
+    flex: 1;
+}
+
+textarea {
+    width: 100%;
+    resize: vertical;
 }
 
 footer {
