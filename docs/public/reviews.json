@@ -1,0 +1,12 @@
+[
+    {
+      "userIcon": "/images/user1.jpg",
+      "userName": "User 1",
+      "reviewText": "This book is amazing! Highly recommended."
+    },
+    {
+      "userIcon": "/images/user2.jpg",
+      "userName": "User 2",
+      "reviewText": "The illustrations are beautiful and informative."
+    }
+  ]
