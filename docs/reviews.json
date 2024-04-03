@@ -1,11 +1,11 @@
 [
     {
-        "userIcon": "/images/cat2_1_idea.png",
+        "userIcon": "../images/cat2_1_idea.png",
         "userName": "John Doe",
         "reviewText": "This book is a fascinating exploration of the human mind. The author's insights are thought-provoking and well-presented. I highly recommend it to anyone interested in psychology."
     },
     {
-        "userIcon": "/images/cat2_3_shock.png",
+        "userIcon": "../images/cat2_3_shock.png",
         "userName": "Jane Smith",
         "reviewText": "I couldn't put this book down! The story is engaging, and the characters are well-developed. It's a must-read for fans of the genre."
     }
